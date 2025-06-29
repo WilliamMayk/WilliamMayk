@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=_custom_gradient0:0a0f0d,50:2d4f4a,100:8db1a4&text=William%20Josue%20Okwale%20&animation=fadeIn&textBg=false" width="100%">
 
 # 📌 About me:
-I'm William Josue Okwale, a passionate frontend developer who loves bringing ideas to life through clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into elegant visual solutions that not only look great but also provide a seamless user experience. I'm interested in:<br>- 💡 Building full-stack web apps<br>- 📊 Business Intelligence dashboards<br>- 🤖 AI + Data science projects<br>- 🌍 Tech for social good in Africa
+I'm William Josue Okwale, a passionate frontend developer and data scientist who loves bringing ideas to life through clean, responsive, and user-friendly interfaces. I enjoy turning complex problems into elegant visual solutions that not only look great but also provide a seamless user experience. I'm interested in:<br>- 💡 Building full-stack web apps<br>- 📊 Business Intelligence dashboards<br>- 🤖 AI + Data science projects<br>- 🌍 Tech for social good in Africa
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_wilo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okwale-william/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:william.okwale@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://willomayk.vercel.app/)
